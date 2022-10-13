@@ -45,7 +45,7 @@
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
 
    ```markdown
-   [![Lyccrius的基本信息](https://luogu-card.lyccrius.site/about?id=278046)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的基本信息](https://luogu-card.lyccrius.site/about?id=278046)](https://www.luogu.com.cn/user/278046)
    ```
 
 ### 练习情况
@@ -65,7 +65,7 @@
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
 
    ```markdown
-   [![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046)](https://www.luogu.com.cn/user/278046)
    ```
 
 ### 咕值信息
@@ -84,7 +84,7 @@
    
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
    ```markdown
-   [![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,17,0,0,30)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,17,0,0,30)](https://www.luogu.com.cn/user/278046)
    ```
    
 
