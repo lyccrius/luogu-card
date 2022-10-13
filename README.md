@@ -70,7 +70,7 @@
 
 ### 咕值信息
 
-![Lyccrius的咕值信息](https://luogu-card.lyccrius.site/guzhi?id=278046)
+![Lyccrius的咕值信息](https://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,17,0,0,30)
 
 咕值信息一般无法自动获取数据，如果需要必须要提供cookie，但是这种方法十分不安全，并且不方便。所以获取咕值卡片可能需要手动输入咕值信息，具体使用方法如下：
 
@@ -79,12 +79,12 @@
 1. 仅使用图片：复制以下内容到任意 markdown 编辑器中，并将 `?id=`后面的数字更改为自己的 id，将`scores=`后面更换为自己的咕值信息，一共 5 个数字（分别代表基础信用、练习情况、社区贡献、比赛情况、获得成就），用英文半角逗号分隔。
 
    ```markdown
-   ![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,70,25,45,0)
+   ![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,17,0,0,30)
    ```
    
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
    ```markdown
-   [![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,70,25,45,0)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,17,0,0,30)](https://github.com/Lyccrius/luogu-card)
    ```
    
 
@@ -154,13 +154,3 @@
 ## LICENSE
 
 [![GNU Lesser General Public License v2.1](https://badgen.net/github/license/Lyccrius/luogu-card)](https://github.com/Lyccrius/luogu-card/blob/master/LICENSE)
-
-## 镜像仓库
-
-~~要不是vercel不支持Gitee只支持Github，我也不会出现在这里了~~
-
-本仓库在码云Gitee上创建了一个[镜像仓库](https://gitee.com/Lyccrius/luogu-card)，但会有同步延迟。也可以访问位于Github的[源仓库](https://github.com/Lyccrius/luogu-card)。
-
-[![star](https://gitee.com/Lyccrius/luogu-card/badge/star.svg?theme=dark)](https://gitee.com/Lyccrius/luogu-card/stargazers)
-
-[![Lyccrius/luogu-card](https://gitee.com/Lyccrius/luogu-card/widgets/widget_card.svg?colors=eae9d7,2e2f29,272822,484a45,eae9d7,747571)](https://gitee.com/Lyccrius/luogu-card)
