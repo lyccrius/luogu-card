@@ -9,6 +9,5 @@
     { "src": "/about", "dest": "/api/about.js" },
     { "src": "/test-function", "dest": "/test/test-function.js" },
     { "src": "/", "status": 301, "headers": { "Location": "https://github.com/Lyccrius/luogu-card" } }
-  ],
-  "regions": ["hkg1"]
+  ]
 }
