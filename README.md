@@ -30,7 +30,7 @@
 
 ### 基本信息
 
-![Lyccrius的基本信息](https://luogu-card.vercel.app/about?id=278046)
+![Lyccrius的基本信息](https://luogu-card.lyccrius.site/about?id=278046)
 
 此卡片用于显示一个用户的基本信息，包括用户类型、关注、咕值排名、个性签名。
 
@@ -39,18 +39,18 @@
 1. 仅使用图片：直接复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id是洛谷的用户编号）。
 
    ```markdown
-   ![Lyccrius的基本信息](https://luogu-card.vercel.app/about?id=278046)
+   ![Lyccrius的基本信息](https://luogu-card.lyccrius.site/about?id=278046)
    ```
 
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
 
    ```markdown
-   [![Lyccrius的基本信息](https://luogu-card.vercel.app/about?id=278046)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的基本信息](https://luogu-card.lyccrius.site/about?id=278046)](https://github.com/Lyccrius/luogu-card)
    ```
 
 ### 练习情况
 
-![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046)
+![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046)
 
 练习情况可以自动获取用户的数据，但是前提是没有开启“完全隐私保护”。
 
@@ -59,18 +59,18 @@
 1. 仅使用图片：直接复制以下内容到任意 markdown 编辑器中，并将`?id=`后面的数字更改为自己的 id 即可（id是洛谷的用户编号）。
 
    ```markdown
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046)
    ```
 
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
 
    ```markdown
-   [![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046)](https://github.com/Lyccrius/luogu-card)
    ```
 
 ### 咕值信息
 
-![Lyccrius的咕值信息](https://luogu-card.vercel.app/guzhi?id=278046)
+![Lyccrius的咕值信息](https://luogu-card.lyccrius.site/guzhi?id=278046)
 
 咕值信息一般无法自动获取数据，如果需要必须要提供cookie，但是这种方法十分不安全，并且不方便。所以获取咕值卡片可能需要手动输入咕值信息，具体使用方法如下：
 
@@ -79,12 +79,12 @@
 1. 仅使用图片：复制以下内容到任意 markdown 编辑器中，并将 `?id=`后面的数字更改为自己的 id，将`scores=`后面更换为自己的咕值信息，一共 5 个数字（分别代表基础信用、练习情况、社区贡献、比赛情况、获得成就），用英文半角逗号分隔。
 
    ```markdown
-   ![Lyccrius的咕值信息](http://luogu-card.vercel.app/guzhi?id=278046&scores=100,70,25,45,0)
+   ![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,70,25,45,0)
    ```
    
 2. 使用图片链接：复制以下内容，第二个小括号内的地址是点击该图片跳转的地址，建议设置为洛谷个人主页。
    ```markdown
-   [![Lyccrius的咕值信息](http://luogu-card.vercel.app/guzhi?id=278046&scores=100,70,25,45,0)](https://github.com/Lyccrius/luogu-card)
+   [![Lyccrius的咕值信息](http://luogu-card.lyccrius.site/guzhi?id=278046&scores=100,70,25,45,0)](https://github.com/Lyccrius/luogu-card)
    ```
    
 
@@ -98,31 +98,31 @@
 1. **隐藏标题**，只需在链接最后带上`&hide_title=true`即可，例如：
 
    ```markdown
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046&hide_title=true)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046&hide_title=true)
    ```
 
    效果：
 
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046&hide_title=1)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046&hide_title=1)
 
 2. **黑暗模式**，只需在链接最后带上`&dark_mode=true`即可，例如：
 
    ```markdown
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046&dark_mode=true)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046&dark_mode=true)
    ```
 
    效果：
 
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046&dark_mode=true)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046&dark_mode=true)
 3. **自定义宽度**，默认500，限制宽度在500到1920之间，只需在链接最后带上`&card_width=需要的宽度`即可，例如：
 
    ```markdown
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046&card_width=750)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046&card_width=750)
    ```
 
    效果：
 
-   ![Lyccrius的练习情况](https://luogu-card.vercel.app/practice?id=278046&card_width=750)
+   ![Lyccrius的练习情况](https://luogu-card.lyccrius.site/practice?id=278046&card_width=750)
    
 4. **禁用缓存**，默认情况下，程序会有12小时的缓存。但是只需在链接最后带上`&disable_cache=true`即可禁用缓存，每次访问都将刷新。
 
