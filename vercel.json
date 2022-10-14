@@ -6,7 +6,7 @@
   "routes": [
     { "src": "/practice", "dest": "/api/practice.js" },
     { "src": "/guzhi", "dest": "/api/guzhi.js" },
-    { "src": "/about", "dest": "/api/about.js" }
+    { "src": "/about", "dest": "/api/about.js" },
     { "src": "/", "status": 301, "headers": { "Location": "https://github.com/Lyccrius/luogu-card" } }
   ]
 }
