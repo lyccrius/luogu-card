@@ -83,8 +83,7 @@ const renderSVG = (stats, options) => {
         {label: "普及+/提高", color:"#52c41a", data: passed[4]},
         {label: "提高+/省选-", color:"#3498db", data: passed[5]},
         {label: "省选/NOI-", color:"#9d3dcf", data: passed[6]},
-        {label: "NOI/NOI+/CTSC", color:"#0e1d69", data: passed[7]},
-        {label: "不能说的秘密", color:"#00bcd4", data: unpassed}
+        {label: "NOI/NOI+/CTSC", color:"#0e1d69", data: passed[7]}
     ]
     const passedSum = passed.reduce((a, b) => a + b);
     const body = renderChart(datas, labelWidth, progressWidth, "题");
