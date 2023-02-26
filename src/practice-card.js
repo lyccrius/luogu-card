@@ -76,6 +76,7 @@ const renderSVG = (stats, options) => {
     const progressWidth = cardWidth - 2*paddingX - labelWidth - 60; //500 - 25*2(padding) - 90(头部文字长度) - 60(预留尾部文字长度)，暂时固定，后序提供自定义选项;
 
     const datas = [
+        {label: "不能说的秘密", color:"#00BCD4", data: unpassed},
         {label: "暂无评定", color:"#bfbfbf", data: passed[0]},
         {label: "入门", color:"#fe4c61", data: passed[1]},
         {label: "普及-", color:"#f39c11", data: passed[2]},
@@ -83,8 +84,7 @@ const renderSVG = (stats, options) => {
         {label: "普及+/提高", color:"#52c41a", data: passed[4]},
         {label: "提高+/省选-", color:"#3498db", data: passed[5]},
         {label: "省选/NOI-", color:"#9d3dcf", data: passed[6]},
-        {label: "NOI/NOI+/CTSC", color:"#0e1d69", data: passed[7]},
-        {label: "不能说的秘密", color:"#00BCD4", data: unpassed}
+        {label: "NOI/NOI+/CTSC", color:"#0e1d69", data: passed[7]}
     ]
     const passedSum = passed.reduce((a, b) => a + b);
     const body = renderChart(datas, labelWidth, progressWidth, "题");
